@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<battery>battery_bank</battery>
+	<coilgun>mt_coilgun</coilgun>
+	<navterminal>command_console</navterminal>
+	<engine>reduction_gear</engine>
+	<junctionbox>electrical_panel</junctionbox>
+	<junctionbox_tutorial>electrical_panel</junctionbox_tutorial>
+	<largeengine>reduction_gear</largeengine>
+	<reactor1>s5000D</reactor1>
+	<statusmonitor>status_console</statusmonitor>
+	<vent>oxygen_vent</vent>
+	<loosevent>oxygen_vent</loosevent>
+	<oxygenerator>oxygen_supply</oxygenerator>
+	<oxygentankshelf2>oxygentank_compressor</oxygentankshelf2>
+	<shuttlebattery>battery_bank_wr</shuttlebattery>
+	<shuttleengine>>reduction_gear</shuttleengine>
+	<shuttlenavterminal>mt_navterminal</shuttlenavterminal>
+	<shuttleoxygenerator>oxygen_supply</shuttleoxygenerator>
+	<pump>water_pump</pump>
+	<smallpump>water_pump_small</smallpump>
+</root>
