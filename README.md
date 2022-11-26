@@ -1,10 +1,10 @@
 # Sub-Mechtraumazinator
-Convert Barotrauma submarines to wrecks. 
+Convert Barotrauma submarines to Mechtrauma submarines. 
 ## Prerequisutes
-Microsoft .NET Framework 4.7.2
+Microsoft .NET Framework 4.8.1
 ## Installation
 ### Building from source
-*Recommended: Visual Studio 2019*
+*Recommended: Visual Studio 2022*
 1. Open `Sub-Mechtraumazinator.sln`.
 2. Change the solution configuration to `Release`.
 3. Build the solution.
@@ -25,8 +25,8 @@ Instead of outputting to a new file, output to the same file as used for input.
 #### Rename sub
 Append `_Mechtrauma` to the name of the submarine
 #### Preserve sprite colours
-If unchecked, will reset all sprite colours of wrecked objects to `255,255,255,255`.
+If unchecked, will reset all sprite colours of transformed objects to `255,255,255,255`.
 #### Change container tags to mechtrauma versions
-Replaces the tags on containers with mechtrauma versions, e.g. `medcab` becomes `wreckmedcab`.
+Replaces the tags on containers with mechtrauma versions, e.g. `junctionbox` becomes `fuse`.
 #### Delete wires
 If checked, deletes all wires on the submarine.
