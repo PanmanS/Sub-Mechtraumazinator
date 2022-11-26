@@ -17,7 +17,7 @@ Microsoft .NET Framework 4.8.1
 Run `Sub-Mechtraumazinator.exe`.  
 ![Sub-Mechtraumazinator](Docs/GUI.png)
 ### Browse
-Select one or more `.sub` files to wreck.
+Select one or more `.sub` files to transform.
 ### Transform
 Clicking this button will transform the selected files in accordance with the settings below.
 #### Mechtrauma file inplace
